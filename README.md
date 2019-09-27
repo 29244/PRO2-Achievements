@@ -16,4 +16,6 @@ Hallo iedereen, mijn naam is Diego Ramon, ik ben 15 jaar oud, en in mijn vrije S
 * Call of Duty
 * Minecraft
 
-### 
+### School
+https://welkombijma.nl/
+Mijn ma-cloud pagina: https://panel.ma-cloud.nl/ispconfig/?_t=1569575269
