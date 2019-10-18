@@ -1,0 +1,11 @@
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\obj\Debug\netcoreapp2.2\opdracht2.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\obj\Debug\netcoreapp2.2\opdracht2.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\obj\Debug\netcoreapp2.2\opdracht2.AssemblyInfoInputs.cache
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\obj\Debug\netcoreapp2.2\opdracht2.AssemblyInfo.cs
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\bin\Debug\netcoreapp2.2\opdracht2.deps.json
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\bin\Debug\netcoreapp2.2\opdracht2.runtimeconfig.json
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\bin\Debug\netcoreapp2.2\opdracht2.runtimeconfig.dev.json
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\bin\Debug\netcoreapp2.2\opdracht2.dll
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\bin\Debug\netcoreapp2.2\opdracht2.pdb
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\obj\Debug\netcoreapp2.2\opdracht2.dll
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\opdracht2\obj\Debug\netcoreapp2.2\opdracht2.pdb

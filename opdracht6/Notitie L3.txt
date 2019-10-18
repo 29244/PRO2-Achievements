@@ -1,0 +1,42 @@
+ if (b == "yes")
+            {
+                Console.WriteLine("Im glad you're liking the place :D");
+            }
+            else if (b == "no")
+            {
+                Console.WriteLine("That's awful to hear, i hope it improves soon :(");
+            }
+            else if (b == "\n" )
+            {
+                Console.WriteLine("Please give a valid input!!!");
+            }
+
+ if (c == "yes")
+            {
+                Console.WriteLine("Good to hear, keep up the good work!");
+            }
+            else if (c == "no")
+            {
+                Console.WriteLine("Doesn't sound good. You either have too little time or you're not working enough.");
+            }
+            else if (c == "\n")
+            {
+                Console.WriteLine("Please give a valid input!!!");
+            }
+
+            if (d == "yes")
+            {
+                Console.WriteLine("Sounds like you like it alot, wish i could try but im a program :/");
+            }
+            else if(d == "YES")
+            {
+                Console.WriteLine("FOOOOOOOOOOOOODDDDDDDD");
+            }
+            else if (d == "no")
+            {
+                Console.WriteLine("That sucks, maybe they'll bring new kind of food soon, for now enjoy that you bring with ya");
+            }
+            else if (d == "\n")
+            {
+                Console.WriteLine("Please give a valid input!!!");
+            }
